@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+}
+
+.Board-row {
+  display: flex;
+  justify-content: center;
+}
